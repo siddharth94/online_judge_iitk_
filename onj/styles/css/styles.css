@@ -1,0 +1,64 @@
+body,html {
+    background-color : floralwhite ;
+    overflow :auto;
+}
+
+.nav{
+    position:fixed;
+    left:0;
+    top:150px;
+    height: 80%;
+    width : 100px;
+    
+}
+
+.custom-font{
+    font-weight: 800;
+    font-size: large;
+}
+
+.custom-font-light{
+    font-weight: 500;
+    font-size:large;
+}
+
+#login_bar{
+    width:100%;
+    height:auto;
+}
+
+#grid{
+    position:relative;
+    left:125px;
+    width:90%;
+    overflow-y:hidden;
+    overflow-x:hidden;
+    
+}
+
+.custom-width{
+    width : 80%;
+}
+
+.custom-size{
+    width:400px;
+    height:auto;
+}
+
+a{
+    text-decoration: none;    
+    color: black;
+}
+
+#edit_on_table{
+    color:white;
+}
+
+#loginmenu{
+    width:200px;
+}
+
+#add_contest_column
+{
+    height: 700px;
+}
